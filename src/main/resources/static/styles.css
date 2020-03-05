@@ -1,0 +1,17 @@
+html{
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 5%;
+}
+
+body{
+    text-align: center;
+}
+
+#input{
+    width: 75%;
+}
+
+#button{
+    width: 25%;
+}
